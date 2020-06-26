@@ -2,6 +2,7 @@
   "ver":1.0,
   "se":{
     "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
+    "7":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/btn_appear.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/act_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bct_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/act_kan.mp3"},
@@ -13,6 +14,8 @@
     "33":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/act_ron.mp3"},
     "34":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bct_ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/act_tumo.mp3"},
-    "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bct_tumo.mp3"}
+    "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bct_tumo.mp3"},
+    "40":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"}
   }
 }
