@@ -1,6 +1,6 @@
 # 天凤自用自定义SE
 
-## 请注意：请先确认自己的网络状况能访问 githubusercontent.com 。
+### 请注意：请先确认自己的网络状况能访问 githubusercontent.com 。
 
 ## 使用方法（不需要按自己喜好自定义的情况下）
 
@@ -31,11 +31,16 @@ SEF：男——抚子，女——白石奈奈
 
 SEG：男——泽尼娅，女——九条璃雨
 
+
 ### 另提供一个SE_DIY.json，可自行进行配置。
-### 默认为：男——一姬，女——二阶堂美树。如要更换对应人物，修改URL中的人物名字拼音部分即可。
-### 请注意：此时请将上方URL中的 TanakaKotoha 替换成 自己的GitHub用户名 ，否则自行配置不会生效。
-### 【如】GitHub用户名为KomeijiSatori，则第4步要填写的URL为：https://raw.githubusercontent.com/KomeijiSatori/tenhou-se-and-bg/master/SE_DIY.json 。其他亦然。
+
+默认为：男——一姬，女——二阶堂美树。如要更换对应人物，修改URL中的人物名字拼音部分即可。
+
+#### 请注意：此时请将上方URL中的 TanakaKotoha 替换成 自己的GitHub用户名 ，否则自行配置不会生效。
+
+【如】GitHub用户名为KomeijiSatori，则第4步要填写的URL为：https://raw.githubusercontent.com/KomeijiSatori/tenhou-se-and-bg/master/SE_DIY.json 。其他亦然。
+
 
 ## 附录：Web版/アプリ版 SE設定ファイルサンプル
 
-## https://tenhou.net/3/se_setting_sample.html
+### https://tenhou.net/3/se_setting_sample.html
