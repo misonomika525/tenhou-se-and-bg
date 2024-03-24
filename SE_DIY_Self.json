@@ -1,0 +1,23 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
+	"8":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/btn_appear.mp3"},
+	"9":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/new_dora.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/hule_fan_out.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_pon.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_kan.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_chi.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_chi.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_rich.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_rich.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_ron.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/linlang/act_tumo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yifu/act_tumo.mp3"},
+    "40":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"}
+  }
+}
