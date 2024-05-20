@@ -19,21 +19,13 @@
 
 SE_Maid：男——三上千织，女——九条璃雨
 
-SE_School：男——白石奈奈，女——二之宫花
-
 SE_Nakahara：男——泽尼娅，女——卡维
-
-SE_OPPEIN：男——相原舞，女——北见纱和子
-
-SE_SheepFox：男——艾因，女——艾丽莎
 
 SE_DeepIn：男——蛇喰梦子，女——早乙女芽亚里
 
 SE_Loli：男——五十岚阳菜，女——雏桃
 
 SE_BlackWhite：男——八木唯，女——小鸟游雏田
-
-SE_SpeedUp：男——约瑟夫，女——生志摩妄
 
 SE_Akagi：男——赤木茂，女——鹫巢岩
 
