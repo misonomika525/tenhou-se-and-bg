@@ -46,7 +46,7 @@ SE_Fate：男——间桐樱，女——远坂凛
 
 如要使用，将配置中的人名部分替换为 2-Hina 即可。
 
-【如】 "31":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/**2-Hina**/act_rich.mp3"},。其他亦然。
+【如】 "31":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/  **2-Hina**  /act_rich.mp3"}, 。其他亦然。
 
 
 ## 附录：Web版/アプリ版 SE設定ファイルサンプル
